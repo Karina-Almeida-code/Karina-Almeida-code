@@ -97,3 +97,9 @@
 # ✨ Frase
 
 > "Estude até entender — não até cansar."
+
+---
+<p align="center">
+  Feito com 💜 por Karina Almeida. Vamos construir algo incrível juntos!
+</p>
+
