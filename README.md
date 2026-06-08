@@ -83,6 +83,15 @@
 </div>
 
 
+### 🎈 Interesses
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Estudando-React-blue?style=for-the-badge" width="95" height="40" alt="Estudando" />
+  <img src="https://img.shields.io/badge/Café-☕-black?style=for-the-badge" width="95" height="40" alt="Café" />
+  <img src="https://img.shields.io/badge/Música-🎵-purple?style=for-the-badge" width="95" height="40" alt="Música" />
+</p>
+
+
 ---
 
 ## ✨ Frase
