@@ -26,7 +26,7 @@
       <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="260" height="50"/>
     </td>
     <td align="center" width="280" height="60">
-      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="260" height="50"/>
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="260" height="60"/>
     </td>
   </tr>
   <tr>
