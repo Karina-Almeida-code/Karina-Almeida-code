@@ -38,7 +38,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="280" height="60">
+    <td align="center" width="280" height="60"><br>
       <img src="https://img.shields.io/badge/Styled_Components-%23DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="Styled Components" width="260" height="50"/>
     </td>
     <td align="center" width="280" height="60">
