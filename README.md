@@ -26,7 +26,7 @@
       <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="260" height="50"/>
     </td>
     <td align="center" width="280" height="60">
-      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="260" height="60"/>
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="260" height="70"/>
     </td>
   </tr>
   <tr>
@@ -34,12 +34,12 @@
       <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="260" height="50"/>
     </td>
     <td align="center" width="280" height="60">
-      <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" width="260" height="50"/>
+      <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" width="260" height="60"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="280" height="60"><br>
-      <img src="https://img.shields.io/badge/Styled_Components-%23DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="Styled Components" width="260" height="50"/>
+      <img src="https://img.shields.io/badge/Styled_Components-%23DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="Styled Components" width="260" height="60"/>
     </td>
     <td align="center" width="280" height="60">
       <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" width="260" height="50"/>
