@@ -47,7 +47,7 @@
   </tr>
   <tr>
     <td align="center" width="280" height="60" colspan="2">
-      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" width="240" height="40"/>
+      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" width="200" height="40"/>
     </td>
   </tr>
 </table>
