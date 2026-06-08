@@ -19,6 +19,7 @@
 <br>
 
 
+## 💻 Tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="95" height="40" alt="HTML5" />
@@ -27,7 +28,9 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="95" height="40" alt="React" />
 </p>
 
-<Br />
+<br>
+
+## 🛠️ Ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/Styled-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" width="95" height="40" alt="Styled Components" />
