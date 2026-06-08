@@ -92,11 +92,8 @@
 </p>
 
 ---
----
-Visualizações no perfil: ![Contador de Visitas](https://hits.seeyoufarm.com/api/count/graph/badge.svg?url=https%3A%2F%2Fgithub.com%2FKarina-Almeida-code&title=Views&edge_flat=false)
 
----
 
-## ✨ Frase
+# ✨ Frase
 
 > "Estude até entender — não até cansar."
