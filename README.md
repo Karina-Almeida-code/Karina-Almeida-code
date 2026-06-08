@@ -91,6 +91,8 @@
   <img src="https://img.shields.io/badge/Música-🎵-purple?style=for-the-badge" width="95" height="40" alt="Música" />
 </p>
 
+---
+Visualizações no perfil: ![Contador de Visitas](https://komarev.com/ghvc/?username=Karina-Almeida-code&color=purple&style=flat-square)
 
 ---
 
