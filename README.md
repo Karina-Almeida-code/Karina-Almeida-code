@@ -38,11 +38,13 @@
 ## 🛠️ Ferramentas
 
 <p align="left">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" width="95" height="40" alt="Vercel" />
+
   <img src="https://img.shields.io/badge/Styled-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" width="95" height="40" alt="Styled Components" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="95" height="40" alt="VSCode" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="95" height="40" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="95" height="40" alt="Figma" />
-</p> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" width="95" height="40" alt="Vercel" p/>
+</p> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" width="95" height="40" alt="Vercel" />
 
 
  
