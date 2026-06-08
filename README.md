@@ -19,46 +19,21 @@
 <br>
 
 
- 
-<table>
-  <tr>
-    <td align="center" width="280" height="60">
-      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="260" height="50"/>
-    </td>
-    <td align="center" width="280" height="60">
-      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="260" height="70"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="280" height="60">
-      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="260" height="50"/>
-    </td>
-    <td align="center" width="280" height="60">
-      <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" width="260" height="60"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="280" height="60"><br>
-      <img src="https://img.shields.io/badge/Styled_Components-%23DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="Styled Components" width="260" height="60"/>
-    </td>
-    <td align="center" width="280" height="60">
-      <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" width="260" height="50"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="280" height="60" colspan="2">
-      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" width="200" height="40"/>
-    </td>
-  </tr>
-</table>
-
-
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="95" height="40" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="95" height="40" alt="CSS3" />
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="95" height="40" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="95" height="40" alt="React" />
+</p>
+
+<Br />
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Styled-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" width="95" height="40" alt="Styled Components" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="95" height="40" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="95" height="40" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="95" height="40" alt="Figma" />
 </p>
 
  
