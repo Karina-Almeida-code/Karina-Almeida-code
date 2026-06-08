@@ -92,7 +92,9 @@
 </p>
 
 ---
-Visualizações no perfil: ![Contador de Visitas](https://komarev.com/ghvc/?username=Karina-Almeida-code&color=purple&style=flat-square)
+---
+Visualizações no perfil: ![Contador de Visitas](https://answers.razorops.com/api/v1/hits/Karina-Almeida-code/badges/standard?label=&color=purple&style=flat-square)
+
 
 ---
 
