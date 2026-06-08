@@ -4,7 +4,7 @@
 💻 Desenvolvedora em aprendizado constante  
 🚀 Focada em Front-end (HTML5, CSS3, JavaScript, REACT.js)  
 🌐Futura Fullstack.
-📚 Estudando diariamente para evoluir na área de tecnologia! 
+📚 Estudando diariamente para evoluir! 
 
 ---
 
