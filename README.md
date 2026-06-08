@@ -23,6 +23,22 @@
  
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-js" width="150px" height="50px" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react"  width="150px" />
 
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></td>
+    <td align="center" width="120"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></td>
+    <td align="center" width="120"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></td>
+    <td align="center" width="120"><img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><img src="https://img.shields.io/badge/Styled_Components-%23DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="Styled Components"/></td>
+    <td align="center" width="120"><img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></td>
+    <td align="center" width="120"><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></td>
+    <td align="center" width="120"></td>
+  </tr>
+</table>
+
+
  
 
 ## 📌 Projetos em destaque
