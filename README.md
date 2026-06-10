@@ -1,15 +1,12 @@
-<div align="center">
+# Olá! Eu sou Desenvolvedor Web 👋
 
-  <!-- Efeito de Digitação Animado -->
-  <img src="https://demolab.com..." alt="Typing Effect" />
+[![Typing SVG](https://demolab.com)](https://git.io/typing-svg)
 
-  <br />
+### 🚀 Principais Tecnologias:
 
-  <!-- Insígnias das Tecnologias -->
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="React" />
+![JavaScript](https://shields.io)
+![React](https://shields.io)
 
-</div>
 
 # 👋 Olá, eu sou Karina Almeida
 
