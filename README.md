@@ -1,3 +1,15 @@
+<div align="center">
+
+  <!-- Efeito de Digitação Animado -->
+  <img src="https://demolab.com..." alt="Typing Effect" />
+
+  <br />
+
+  <!-- Insígnias das Tecnologias -->
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="React" />
+
+</div>
 
 # 👋 Olá, eu sou Karina Almeida
 
