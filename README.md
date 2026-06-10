@@ -1,4 +1,4 @@
-![Logo do GitHub](https://github.com)
+
 
 # 👋 Olá, eu sou Karina Almeida
 
@@ -8,6 +8,7 @@
 📚 Estudando diariamente para evoluir! 
 
 ---
+![Logo do GitHub](https://github.com)
 
 ## 🌐 Sobre mim
 
