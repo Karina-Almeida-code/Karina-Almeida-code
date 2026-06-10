@@ -1,11 +1,3 @@
-# Olá! Eu sou Desenvolvedor Web 👋
-
-[![Typing SVG](https://demolab.com)](https://git.io/typing-svg)
-
-### 🚀 Principais Tecnologias:
-
-![JavaScript](https://shields.io)
-![React](https://shields.io)
 
 
 # 👋 Olá, eu sou Karina Almeida
