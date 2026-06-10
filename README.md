@@ -8,7 +8,7 @@
 📚 Estudando diariamente para evoluir! 
 
 ---
-![Logo do GitHub](https://github.com)
+
 
 ## 🌐 Sobre mim
 
