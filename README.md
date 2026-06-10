@@ -1,4 +1,4 @@
-
+![Logo do GitHub](https://github.com)
 
 # 👋 Olá, eu sou Karina Almeida
 
