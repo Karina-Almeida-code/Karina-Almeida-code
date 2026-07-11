@@ -2,10 +2,13 @@
 
 # 👋 Olá, eu sou Karina Almeida
 
-💻 Desenvolvedora em aprendizado constante  
-🚀 Focada em Front-end (HTML5, CSS3, JavaScript, REACT.js)  
-🌐Futura Fullstack.
-📚 Estudando diariamente para evoluir! 
+React / Front-End Developer ⚛️
+
+Desenvolvendo soluções web modernas e interativas.
+
+Explorando Inteligência Artificial Generativa e Engenharia de Prompt.
+
+Turning code into smart user experiences. 🧠⚡ 
 
 ---
 
