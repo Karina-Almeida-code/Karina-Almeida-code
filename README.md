@@ -20,10 +20,6 @@ Turning code into smart user experiences. 🧠⚡
 - 📈 Evoluindo um pouco todos os dias  
 - 📍 Brasil  
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Karina-Almeida-code&show_icons=true&theme=dark" height="150" alt="Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Karina-Almeida-code&layout=compact&theme=dark" height="150" alt="Top Langs" />
-</p>
 
 
 <br>
